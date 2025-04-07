@@ -95,5 +95,6 @@ for epoch in range(epochs):
 
 
 ## Result
+Thus, the model was successfully trained and is capable of accurately predicting stock prices based on historical data.
 
 
